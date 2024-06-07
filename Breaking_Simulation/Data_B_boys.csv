@@ -1,0 +1,796 @@
+﻿Name,Surename,Country,Ranking,Points,Date,Event,Discipline,Category,Location
+B-Boy Wigor - Igor Szymon,Wypiór,POL,17,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Wigor - Igor Szymon,Wypiór,POL,28,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Wigor - Igor Szymon,Wypiór,POL,6,380,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Wigor - Igor Szymon,Wypiór,POL,8,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Wigor - Igor Szymon,Wypiór,POL,6,152,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Wigor - Igor Szymon,Wypiór,POL,19,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Wigor - Igor Szymon,Wypiór,POL,7,360,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Wigor - Igor Szymon,Wypiór,POL,15,240,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Wigor - Igor Szymon,Wypiór,POL,28,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Wigor - Igor Szymon,Wypiór,POL,3,650,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Wigor - Igor Szymon,Wypiór,POL,30,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Spina Flow - Salvador Alexander,Hernandez Perez,ESA,89,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Fill - Firdavs,Dzhuraev,TJK,25,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Dorob - Dorobshokhi,Sadriddin,TJK,24,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Jester - Oğuzhan,Karademir,TJK,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Jester - Oğuzhan,Karademir,TJK,54,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Jester - Oğuzhan,Karademir,TJK,35,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Jester - Oğuzhan,Karademir,TJK,47,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Jester - Oğuzhan,Karademir,TJK,40,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Jester - Oğuzhan,Karademir,TJK,51,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Jester - Oğuzhan,Karademir,TJK,71,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Jester - Oğuzhan,Karademir,TJK,36,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Jester - Oğuzhan,Karademir,TJK,22,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Jester - Oğuzhan,Karademir,TJK,96,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Jester - Oğuzhan,Karademir,TJK,0,,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Jester - Oğuzhan,Karademir,TJK,32,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Jester - Oğuzhan,Karademir,TJK,25,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,90,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,57,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,81,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,68,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,93,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,44,20,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,160,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Matto - Murat,Abdurrahmanoğlu,TUR,127,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,14,250,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,14,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,7,360,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,6,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,11,280,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,11,280,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,9,300,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,4,500,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,8,340,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,4,500,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Kuzya - Oleg,Kuznietsov,UKR,10,128,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,5,400,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,9,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,15,240,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,9,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,8,340,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,6,380,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,14,250,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,19,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,23,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,5,400,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Lussy Sky - Oleksandr,Gatyn-Lozynskyi,UKR,3,230,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Victor Jay - Vijay Vimal,Rathod,ENG,82,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Victor Jay - Vijay Vimal,Rathod,ENG,114,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Victor Jay - Vijay Vimal,Rathod,ENG,71,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Victor Jay - Vijay Vimal,Rathod,ENG,24,33,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Sheku - Sam Daniel,Phillips,ENG,6,380,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Sheku - Sam Daniel,Phillips,ENG,28,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Sheku - Sam Daniel,Phillips,ENG,21,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Sheku - Sam Daniel,Phillips,ENG,13,260,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Sheku - Sam Daniel,Phillips,ENG,29,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Sheku - Sam Daniel,Phillips,ENG,48,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Sheku - Sam Daniel,Phillips,ENG,59,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Sheku - Sam Daniel,Phillips,ENG,47,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Sheku - Sam Daniel,Phillips,ENG,7,55,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Sheku - Sam Daniel,Phillips,ENG,56,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Kid Karam - Karam,Singh,ENG,8,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Kid Karam - Karam,Singh,ENG,11,280,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Kid Karam - Karam,Singh,ENG,5,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Kid Karam - Karam,Singh,ENG,9,300,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Kid Karam - Karam,Singh,ENG,13,260,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Kid Karam - Karam,Singh,ENG,25,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Kid Karam - Karam,Singh,ENG,2,750,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Kid Karam - Karam,Singh,ENG,32,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,21,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,9,300,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,10,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,4,500,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,17,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,20,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,9,300,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,9,300,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Sunni - Sunni Sazali,Brummitt,ENG,20,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Morris - Isby,Morris,USA,38,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Morris - Isby,Morris,USA,30,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Morris - Isby,Morris,USA,21,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Morris - Isby,Morris,USA,17,200,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Morris - Isby,Morris,USA,17,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Morris - Isby,Morris,USA,23,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Morris - Isby,Morris,USA,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Morris - Isby,Morris,USA,7,72,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Morris - Isby,Morris,USA,22,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Morris - Isby,Morris,USA,8,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Morris - Isby,Morris,USA,9,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Victor - Victor Bernudez,Montalvo,USA,1,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Victor - Victor Bernudez,Montalvo,USA,3,650,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Victor - Victor Bernudez,Montalvo,USA,1,400,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Victor - Victor Bernudez,Montalvo,USA,3,650,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Victor - Victor Bernudez,Montalvo,USA,3,650,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Victor - Victor Bernudez,Montalvo,USA,1,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Victor - Victor Bernudez,Montalvo,USA,1,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Victor - Victor Bernudez,Montalvo,USA,1,,13-Sep-19,World Urban Games,Breaking,Adult,Budapest - Hungary
+B-Boy El Nino - Alexander Raimon,Diaz,USA,19,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy El Nino - Alexander Raimon,Diaz,USA,14,250,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy El Nino - Alexander Raimon,Diaz,USA,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy El Nino - Alexander Raimon,Diaz,USA,13,104,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy El Nino - Alexander Raimon,Diaz,USA,11,280,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy El Nino - Alexander Raimon,Diaz,USA,74,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Gravity - Miguel Angel,Rosario,USA,4,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Gravity - Miguel Angel,Rosario,USA,4,500,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Gravity - Miguel Angel,Rosario,USA,3,650,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Gravity - Miguel Angel,Rosario,USA,19,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Gravity - Miguel Angel,Rosario,USA,8,340,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Gravity - Miguel Angel,Rosario,USA,6,380,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Gravity - Miguel Angel,Rosario,USA,2,270,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,2,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,2,750,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,18,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,4,500,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,2,750,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,7,360,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,1,200,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,2,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Jeffro - Jeffrey Mike,Louis,USA,1,340,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy LookOut - Dmitriy,Lukashev,UZB,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy LookOut - Dmitriy,Lukashev,UZB,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy LookOut - Dmitriy,Lukashev,UZB,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy LookOut - Dmitriy,Lukashev,UZB,55,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy LookOut - Dmitriy,Lukashev,UZB,64,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy LookOut - Dmitriy,Lukashev,UZB,82,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy LookOut - Dmitriy,Lukashev,UZB,78,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy LookOut - Dmitriy,Lukashev,UZB,76,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy LookOut - Dmitriy,Lukashev,UZB,126,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy WT - Talgat,Sherov,UZB,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy WT - Talgat,Sherov,UZB,13,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy WT - Talgat,Sherov,UZB,56,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy WT - Talgat,Sherov,UZB,61,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy WT - Talgat,Sherov,UZB,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy WT - Talgat,Sherov,UZB,59,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy WT - Talgat,Sherov,UZB,37,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy WT - Talgat,Sherov,UZB,36,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy WT - Talgat,Sherov,UZB,40,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy WT - Talgat,Sherov,UZB,70,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy WT - Talgat,Sherov,UZB,99,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Jamal - Jamal,Asadulaev,UZB,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Jamal - Jamal,Asadulaev,UZB,11,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Jamal - Jamal,Asadulaev,UZB,43,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Jamal - Jamal,Asadulaev,UZB,43,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Jamal - Jamal,Asadulaev,UZB,2,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Jamal - Jamal,Asadulaev,UZB,1,,20-Oct-18,BfG Challenge Series,Breaking,Adult,Moscow - Russia
+B-Boy Mancino - Oybek,Khaydarov,UZB,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Mancino - Oybek,Khaydarov,UZB,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Arbis - David,Arbis,AUS,37,100,27-Oct-23,Continental Championship,Breaking,Adult,Sydney - Austra
+B-Boy D-Struction - Dylan Kyle,Hester,AUS,32,200,27-Oct-23,Continental Championship,Breaking,Adult,Sydney - Australia
+B-Boy Michael - Michael,Fox,AUS,35,100,27-Oct-23,Continental Championship,Breaking,Adult,Sydney - Australia
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,6,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,16,230,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,6,152,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,5,160,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,16,230,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,30,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,65,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,12,54,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,28,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,84,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,18,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,4,65,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Mighty Jimm - Dimitrios,Grigoriou,BEL,27,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Lucky - Lucas,El Raghibi,BEL,43,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Lucky - Lucas,El Raghibi,BEL,16,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Lucky - Lucas,El Raghibi,BEL,52,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lucky - Lucas,El Raghibi,BEL,15,240,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Lucky - Lucas,El Raghibi,BEL,36,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Lucky - Lucas,El Raghibi,BEL,22,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Lucky - Lucas,El Raghibi,BEL,20,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Lucky - Lucas,El Raghibi,BEL,81,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Lucky - Lucas,El Raghibi,BEL,3,130,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Lucky - Lucas,El Raghibi,BEL,14,36,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Lucky - Lucas,El Raghibi,BEL,18,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lucky - Lucas,El Raghibi,BEL,6,56,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Lucky - Lucas,El Raghibi,BEL,20,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Tirock - Tiromana,Tupea,BEL,30,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Tirock - Tiromana,Tupea,BEL,17,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Tirock - Tiromana,Tupea,BEL,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Tirock - Tiromana,Tupea,BEL,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Tirock - Tiromana,Tupea,BEL,50,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Tirock - Tiromana,Tupea,BEL,8,340,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Tirock - Tiromana,Tupea,BEL,14,250,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Tirock - Tiromana,Tupea,BEL,83,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Tirock - Tiromana,Tupea,BEL,48,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Tirock - Tiromana,Tupea,BEL,10,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Cis - Cis,Backeljau,BEL,13,260,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Cis - Cis,Backeljau,BEL,19,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Cis - Cis,Backeljau,BEL,40,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Cis - Cis,Backeljau,BEL,12,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Cis - Cis,Backeljau,BEL,26,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Cis - Cis,Backeljau,BEL,13,260,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Cis - Cis,Backeljau,BEL,30,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Cis - Cis,Backeljau,BEL,28,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Cis - Cis,Backeljau,BEL,18,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Cis - Cis,Backeljau,BEL,17,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Cis - Cis,Backeljau,BEL,17,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Cis - Cis,Backeljau,BEL,59,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Cis - Cis,Backeljau,BEL,5,80,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Cis - Cis,Backeljau,BEL,4,65,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Cis - Cis,Backeljau,BEL,1,110,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Cis - Cis,Backeljau,BEL,58,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Jhoss - Jhosimar Rodrigo,Caballero Portugal,BOL,106,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Gama - Juvenal Eduardo,Zárate Ardaya,BOL,76,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,26,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,8,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,35,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,53,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,7,360,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,29,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,56,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,56,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,29,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Leony - Leony,Do Rosário Pinheiro,BRA,3,72,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Luan San - Luan carlos,Dos santos,BRA,20,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Luan San - Luan carlos,Dos santos,BRA,57,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Luan San - Luan carlos,Dos santos,BRA,13,260,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Luan San - Luan carlos,Dos santos,BRA,34,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Luan San - Luan carlos,Dos santos,BRA,50,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Luan San - Luan carlos,Dos santos,BRA,53,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Luan San - Luan carlos,Dos santos,BRA,63,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Luan San - Luan carlos,Dos santos,BRA,13,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Luan San - Luan carlos,Dos santos,BRA,4,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Mass - Samuel,Cyr,CAN,10,290,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Mass - Samuel,Cyr,CAN,27,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Mass - Samuel,Cyr,CAN,23,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Mass - Samuel,Cyr,CAN,2,300,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Mass - Samuel,Cyr,CAN,0,,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Mass - Samuel,Cyr,CAN,108,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Mass - Samuel,Cyr,CAN,23,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Mass - Samuel,Cyr,CAN,38,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Phil Wizard - Philip,Kim,CAN,1,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Phil Wizard - Philip,Kim,CAN,2,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Phil Wizard - Philip,Kim,CAN,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Phil Wizard - Philip,Kim,CAN,1,1000,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Phil Wizard - Philip,Kim,CAN,1,1000,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Phil Wizard - Philip,Kim,CAN,2,750,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Phil Wizard - Philip,Kim,CAN,10,290,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Phil Wizard - Philip,Kim,CAN,1,1000,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Phil Wizard - Philip,Kim,CAN,6,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Phil Wizard - Philip,Kim,CAN,2,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Phil Wizard - Philip,Kim,CAN,5,,13-Sep-19,World Urban Games,Breaking,Adult,Budapest - Hungary
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,57,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,0,,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,74,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,112,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Jc Fresh - Jayson Patrick,Collantes,CAN,2,150,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy WenEver - Michael,Wen,CAN,35,20,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Professor H - Olivier,Houle,CAN,53,40,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Professor H - Olivier,Houle,CAN,31,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy igni - Winston Christopher,Minge,CAN,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy igni - Winston Christopher,Minge,CAN,28,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Sao - Ntumba Jephte,Ntumba,COD,0,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Moa - Moa Yamin,Bomolo,SUI,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Moa - Moa Yamin,Bomolo,SUI,50,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Moa - Moa Yamin,Bomolo,SUI,31,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Moa - Moa Yamin,Bomolo,SUI,42,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Moa - Moa Yamin,Bomolo,SUI,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Moa - Moa Yamin,Bomolo,SUI,49,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Moa - Moa Yamin,Bomolo,SUI,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Moa - Moa Yamin,Bomolo,SUI,34,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Moa - Moa Yamin,Bomolo,SUI,24,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Moa - Moa Yamin,Bomolo,SUI,55,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Popster - Jean-Marc,Du,SUI,48,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Popster - Jean-Marc,Du,SUI,75,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Popster - Jean-Marc,Du,SUI,95,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Popster - Jean-Marc,Du,SUI,71,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Popster - Jean-Marc,Du,SUI,49,40,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Popster - Jean-Marc,Du,SUI,74,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Popster - Jean-Marc,Du,SUI,96,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Popster - Jean-Marc,Du,SUI,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Popster - Jean-Marc,Du,SUI,40,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Popster - Jean-Marc,Du,SUI,49,20,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Popster - Jean-Marc,Du,SUI,89,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Popster - Jean-Marc,Du,SUI,170,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,25,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,3,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,16,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,9,300,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,57,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,10,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,2,91,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Matita - Matías Ignacio,Martínez Hidalgo,CHI,14,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Daf - Nicolas,da Fonseca,CHI,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Daf - Nicolas,da Fonseca,CHI,16,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Daf - Nicolas,da Fonseca,CHI,74,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Daf - Nicolas,da Fonseca,CHI,101,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Daf - Nicolas,da Fonseca,CHI,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Daf - Nicolas,da Fonseca,CHI,72,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Daf - Nicolas,da Fonseca,CHI,41,40,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Daf - Nicolas,da Fonseca,CHI,37,100,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Daf - Nicolas,da Fonseca,CHI,61,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Daf - Nicolas,da Fonseca,CHI,63,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Daf - Nicolas,da Fonseca,CHI,91,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Bohika - Mama,Njifenjou,CMR,0,,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,36,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,40,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,37,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,19,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,28,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Jw Fresh - Xinjie,Zhang,CHN,30,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Crazy C - Xuanhui,Cheng,CHN,21,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Jin - Xibin,Jin,CHN,53,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Mag - Wentao,Liu,CHN,15,240,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Monkey Z - Ruimiao,Wang,CHN,9,300,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Rolling Out - Yan,Sen,CHN,32,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Crit - Xingyu,Zhao,CHN,49,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Crit - Xingyu,Zhao,CHN,7,360,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Forest - Zhou,Senlin,CHN,14,250,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,3,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,4,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,36,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,4,500,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,20,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,12,270,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,26,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,34,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Lithe-ing - Xiangyu,Qi,CHN,19,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy X-Rain - Xiaoyu,Shang,CHN,6,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy X-Rain - Xiaoyu,Shang,CHN,0,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy X-Rain - Xiaoyu,Shang,CHN,2,750,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy X-Rain - Xiaoyu,Shang,CHN,7,360,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy X-Rain - Xiaoyu,Shang,CHN,27,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy X-Rain - Xiaoyu,Shang,CHN,29,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy X-Rain - Xiaoyu,Shang,CHN,28,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy X-Rain - Xiaoyu,Shang,CHN,21,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy X-Rain - Xiaoyu,Shang,CHN,4,,20-May-18,World Championship,Breaking,Youth,Kawasaki - Japan
+B-Boy X-Rain - Xiaoyu,Shang,CHN,9,,2-Dec-17,Continental Qualifier,Breaking,Youth,Taipei - Chinese Taipei
+B-Boy Eric - Ziang,Yu,CHN,64,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Eric - Ziang,Yu,CHN,72,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Eric - Ziang,Yu,CHN,34,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Eric - Ziang,Yu,CHN,66,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Kh - Kai-Hang,Lin,TPE,54,40,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Willy Roc - Wei-Jung,Chang,TPE,54,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Willy Roc - Wei-Jung,Chang,,44,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Willy Roc - Wei-Jung,Chang,,42,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Willy Roc - Wei-Jung,Chang,,54,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Willy Roc - Wei-Jung,Chang,,60,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Willy Roc - Wei-Jung,Chang,,70,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Quake - Chen,Sun,TPE,4,500,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Quake - Chen,Sun,TPE,5,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Quake - Chen,Sun,TPE,12,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Quake - Chen,Sun,TPE,18,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Quake - Chen,Sun,TPE,8,340,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Quake - Chen,Sun,TPE,8,136,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Quake - Chen,Sun,TPE,4,200,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Quake - Chen,Sun,TPE,30,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Quake - Chen,Sun,TPE,37,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Quake - Chen,Sun,TPE,16,230,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Quake - Chen,Sun,TPE,33,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Quake - Chen,Sun,TPE,17,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Quake - Chen,Sun,TPE,8,53,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Quake - Chen,Sun,TPE,17,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Quake - Chen,Sun,TPE,20,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Quake - Chen,Sun,TPE,9,,13-Sep-19,World Urban Games,Breaking,Adult,Budapest - Hungary
+B-Boy Lilma - Liu,Cheng-Te,TPE,51,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Lilma - Liu,Cheng-Te,TPE,10,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Lilma - Liu,Cheng-Te,TPE,51,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Lilma - Liu,Cheng-Te,TPE,74,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Lilma - Liu,Cheng-Te,TPE,26,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Lilma - Liu,Cheng-Te,TPE,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Lilma - Liu,Cheng-Te,TPE,39,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lilma - Liu,Cheng-Te,TPE,64,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Lilma - Liu,Cheng-Te,TPE,58,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Lilma - Liu,Cheng-Te,TPE,31,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Lilma - Liu,Cheng-Te,TPE,54,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Lilma - Liu,Cheng-Te,TPE,21,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Lilma - Liu,Cheng-Te,TPE,5,57,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Lilma - Liu,Cheng-Te,TPE,66,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lilma - Liu,Cheng-Te,TPE,17,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Winnie - Hsin-Wai,Cheng,TPE,25,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy da B - Chang,Cheng-Hung,TPE,33,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Sprite - Yuchien,Wu,TPE,41,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,41,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,9,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,79,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,15,240,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,67,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,77,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Ricky Rulez - Ricky Sebastian,Ordonez Castillo,COL,7,55,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy J-Stiv - Julián Stiven,Medina Jiménez,COL,30,33,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Alvin - Jordan Alberto,Silva Medina,COL,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Alvin - Jordan Alberto,Silva Medina,,7,,3-Nov-23,Continental Games,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Alvin - Jordan Alberto,Silva Medina,,7,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Alvin - Jordan Alberto,Silva Medina,,30,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Alvin - Jordan Alberto,Silva Medina,,5,400,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Alvin - Jordan Alberto,Silva Medina,,24,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Alvin - Jordan Alberto,Silva Medina,,39,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Alvin - Jordan Alberto,Silva Medina,,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Alvin - Jordan Alberto,Silva Medina,,21,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Kent - Alvaro Jose,Lozano de la Cruz,COL,113,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Kent - Alvaro Jose,Lozano de la Cruz,COL,38,26,4-Jun-22,BfG Challenge Series,Breaking,Adult,Cali - Colombia
+B-Boy Lilmono - Jhon Fredy,Obando Franco,COL,103,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Lilmono - Jhon Fredy,Obando Franco,COL,38,26,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Lilmono - Jhon Fredy,Obando Franco,COL,41,26,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy DGhost - Hernán Daniel,Velasquez Arevalo,COL,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy DGhost - Hernán Daniel,Velasquez Arevalo,COL,35,26,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy DGhost - Hernán Daniel,Velasquez Arevalo,COL,53,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy DGhost - Hernán Daniel,Velasquez Arevalo,COL,21,33,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Elvis - Fabio Elvis,Garcia Arredondo,COL,85,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Drain - Charis,Krokos,CYP,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Drain - Charis,Krokos,CYP,81,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Drain - Charis,Krokos,CYP,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Drain - Charis,Krokos,CYP,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Drain - Charis,Krokos,CYP,0,,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Drain - Charis,Krokos,CYP,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Drain - Charis,Krokos,CYP,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Drain - Charis,Krokos,CYP,120,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Drain - Charis,Krokos,CYP,162,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Kerry - Pavel,Hajduch,CZE,38,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Kerry - Pavel,Hajduch,CZE,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Kerry - Pavel,Hajduch,CZE,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Kerry - Pavel,Hajduch,CZE,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Kerry - Pavel,Hajduch,CZE,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Kerry - Pavel,Hajduch,CZE,101,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Kerry - Pavel,Hajduch,CZE,104,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Kerry - Pavel,Hajduch,CZE,33,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Marrson - Marek,Mensa,CZE,72,50,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Marrson - Marek,Mensa,CZE,59,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Marrson - Marek,Mensa,CZE,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Marrson - Marek,Mensa,CZE,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Marrson - Marek,Mensa,CZE,36,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Marrson - Marek,Mensa,CZE,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Marrson - Marek,Mensa,CZE,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Marrson - Marek,Mensa,CZE,21,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Marrson - Marek,Mensa,CZE,58,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Said - Serhat,Perhat,GER,28,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Said - Serhat,Perhat,GER,94,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Said - Serhat,Perhat,GER,39,20,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Said - Serhat,Perhat,GER,60,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Said - Serhat,Perhat,GER,125,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Said - Serhat,Perhat,GER,19,40,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Said - Serhat,Perhat,GER,14,36,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Said - Serhat,Perhat,GER,82,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Said - Serhat,Perhat,GER,29,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Said - Serhat,Perhat,GER,16,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Flo - Florian Vincent,Graul,GER,62,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Flo - Florian Vincent,Graul,GER,12,108,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Flo - Florian Vincent,Graul,GER,71,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Flo - Florian Vincent,Graul,GER,34,20,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Flo - Florian Vincent,Graul,GER,92,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Flo - Florian Vincent,Graul,GER,12,54,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Flo - Florian Vincent,Graul,GER,25,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy M17 - Mario,Eckel,GER,47,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy M17 - Mario,Eckel,GER,55,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy M17 - Mario,Eckel,GER,71,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy M17 - Mario,Eckel,GER,27,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy M17 - Mario,Eckel,GER,71,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy M17 - Mario,Eckel,GER,80,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy M17 - Mario,Eckel,GER,53,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy M17 - Mario,Eckel,GER,51,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy M17 - Mario,Eckel,GER,32,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy M17 - Mario,Eckel,GER,47,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy M17 - Mario,Eckel,GER,64,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy M17 - Mario,Eckel,GER,18,33,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy M17 - Mario,Eckel,GER,54,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Double D - Dennis,Dressel,GER,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Double D - Dennis,Dressel,GER,77,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Double D - Dennis,Dressel,GER,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Double D - Dennis,Dressel,GER,36,40,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Double D - Dennis,Dressel,GER,38,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Double D - Dennis,Dressel,GER,44,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Double D - Dennis,Dressel,GER,48,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Double D - Dennis,Dressel,GER,55,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Double D - Dennis,Dressel,GER,29,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Double D - Dennis,Dressel,GER,49,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Double D - Dennis,Dressel,GER,42,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Double D - Dennis,Dressel,GER,4,100,4-Sep-22,BfG Challenge Series,Breaking,Adult,Montreal - Canada
+B-Boy Double D - Dennis,Dressel,GER,22,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Double D - Dennis,Dressel,GER,44,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Double D - Dennis,Dressel,GER,24,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Lamjiiiinoooo - Lam,Le,GER,82,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,84,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,155,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,97,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,131,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Young M - Marcus Agerbo,Nguyen,DEN,152,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Tunde - Tunde,Adetunji,DEN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Tunde - Tunde,Adetunji,DEN,71,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Tunde - Tunde,Adetunji,DEN,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Tunde - Tunde,Adetunji,DEN,63,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Tunde - Tunde,Adetunji,DEN,37,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Tunde - Tunde,Adetunji,DEN,8,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Chicken - Felipe,Mariano de los Santos,DOM,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Chicken - Felipe,Mariano de los Santos,DOM,0,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Chicken - Felipe,Mariano de los Santos,DOM,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Chicken - Felipe,Mariano de los Santos,DOM,53,100,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Adel - Adel,Semiani,ALG,67,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Adel - Adel,Semiani,ALG,76,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Adel - Adel,Semiani,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Adel - Adel,Semiani,ALG,28,80,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Adel - Adel,Semiani,ALG,8,340,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Rickaz - Mohamed Alaa Eddine,Sehini,ALG,0,,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Hoxine - Hocine,Chernai,ALG,80,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Hoxine - Hocine,Chernai,ALG,24,200,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Outto - Oussama,Selmi,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Outto - Oussama,Selmi,ALG,49,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Outto - Oussama,Selmi,ALG,12,270,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Zinjitso - Ben Youcef,Yesref,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Zinjitso - Ben Youcef,Yesref,ALG,41,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Zinjitso - Ben Youcef,Yesref,ALG,10,290,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,52,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,59,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Dtwelve - Mohamed El-Amine A,Zeboudj,ALG,6,380,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Chakib - Mohamed Chakib,Kaidi,ALG,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Chakib - Mohamed Chakib,Kaidi,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Chakib - Mohamed Chakib,Kaidi,ALG,23,80,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Chakib - Mohamed Chakib,Kaidi,ALG,3,650,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Ismail - Ismail,Frihi,ALG,17,200,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,70,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,32,80,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,58,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Zoo - Ilyes Bachir,Madjoub,ALG,4,500,12-May-23,Continental Championship,Breaking,Adult,Rabat - Morocco
+B-Boy Hamza - Hamza,Bakkach Kharraz,ESP,86,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Jumber - Alberto,Pérez Portela,ESP,89,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Bhera - Manuel,Martin Martin,ESP,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Bhera - Manuel,Martin Martin,ESP,110,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Bhera - Manuel,Martin Martin,ESP,144,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Bhera - Manuel,Martin Martin,ESP,41,26,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Adri Tr - Adrian,Cortazar Cestao,ESP,90,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Adri Tr - Adrian,Cortazar Cestao,ESP,79,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Adri Tr - Adrian,Cortazar Cestao,ESP,35,26,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Adri Tr - Adrian,Cortazar Cestao,ESP,26,33,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Jandro - Alejandro,Adaid Rodriguez,ESP,61,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Jandro - Alejandro,Adaid Rodriguez,ESP,75,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Jandro - Alejandro,Adaid Rodriguez,ESP,28,33,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Jandro - Alejandro,Adaid Rodriguez,ESP,17,33,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Rooty - Aitor,Guezuraga Casas,ESP,65,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Rooty - Aitor,Guezuraga Casas,ESP,95,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Rooty - Aitor,Guezuraga Casas,ESP,116,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Rooty - Aitor,Guezuraga Casas,ESP,34,26,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Juver - Victor,Molina Galaso,ESP,64,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Juver - Victor,Molina Galaso,ESP,40,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Juver - Victor,Molina Galaso,ESP,54,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Juver - Victor,Molina Galaso,ESP,76,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Juver - Victor,Molina Galaso,ESP,22,33,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Juver - Victor,Molina Galaso,ESP,64,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Assassin Cris - Cristian,Pozo Moreno,ESP,81,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Assassin Cris - Cristian,Pozo Moreno,ESP,123,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Assassin Cris - Cristian,Pozo Moreno,ESP,21,33,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,8,340,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,13,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,0,,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,10,290,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,3,650,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,8,340,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,11,280,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,18,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,26,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,14,250,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,4,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,1,110,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,7,172,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,1,110,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,7,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,4,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Xak - Juan,De la Torre Sanchez,ESP,13,,13-Sep-19,World Urban Games,Breaking,Adult,Budapest - Hungary
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,61,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,52,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,7,144,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,0,,27-May-23,Continental Championship,Breaking,Adult,Santiago de Chile - Chile
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,3,72,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,2,91,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Mini Joe - Jhonder Daniel,Gómez Rondon,ESP,8,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Haiku - Kimmo Jarkko Aleksi,Korpela,FIN,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Haiku - Kimmo Jarkko Aleksi,Korpela,FIN,72,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Haiku - Kimmo Jarkko Aleksi,Korpela,FIN,115,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Haiku - Kimmo Jarkko Aleksi,Korpela,FIN,66,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Hatsolo - Johannes,Hattunen,FIN,61,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Hatsolo - Johannes,Hattunen,FIN,33,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Hatsolo - Johannes,Hattunen,FIN,51,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Hatsolo - Johannes,Hattunen,FIN,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Hatsolo - Johannes,Hattunen,FIN,33,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Hatsolo - Johannes,Hattunen,FIN,43,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Hatsolo - Johannes,Hattunen,FIN,45,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Hatsolo - Johannes,Hattunen,FIN,34,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Hatsolo - Johannes,Hattunen,FIN,44,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Hatsolo - Johannes,Hattunen,FIN,38,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Hatsolo - Johannes,Hattunen,FIN,85,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Hatsolo - Johannes,Hattunen,FIN,16,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Hatsolo - Johannes,Hattunen,FIN,45,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Hatsolo - Johannes,Hattunen,FIN,3,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy P-Tech - Pontus Claes,Linder,FIN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy P-Tech - Pontus Claes,Linder,FIN,78,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy P-Tech - Pontus Claes,Linder,FIN,63,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy P-Tech - Pontus Claes,Linder,FIN,126,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy P-Tech - Pontus Claes,Linder,FIN,166,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,60,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,88,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,77,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,55,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,42,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Elmonaattori - Lauri-Elias,Niskanen,FIN,151,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Atu - Atunaisa,Laqeretabua,FIJ,36,100,27-Oct-23,Continental Championship,Breaking,Adult,Sydney - Australia
+B-Boy Kamil - Kamil,Bousselham,FRA,0,,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Kamil - Kamil,Bousselham,FRA,88,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Killian - Killian Emmanuel,Treport,FRA,39,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Killian - Killian Emmanuel,Treport,FRA,48,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Killian - Killian Emmanuel,Treport,FRA,75,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Raph - Raphaël Paul,Saint-Laurent,FRA,74,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Raph - Raphaël Paul,Saint-Laurent,FRA,61,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,53,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,5,160,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,15,96,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,14,250,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,54,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Neosan - Noé Melikor Charles,Sobesky,FRA,28,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,10,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,2,750,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,7,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,14,250,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,5,400,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,7,360,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,17,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,7,360,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,24,200,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,13,,26-Jun-21,Continental Championship,Breaking,Adult,Sochi - Russia
+B-Boy Lagaet - Gaëtan Rodrigue,Alin,FRA,10,,13-Sep-19,World Urban Games,Breaking,Adult,Budapest - Hungary
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,9,300,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,11,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,10,290,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,18,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,22,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,23,200,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,30,200,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,15,240,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,9,132,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Khalil - Khalil Abdel Safi,Chabouni,FRA,2,,20-Oct-18,BfG Challenge Series,Breaking,Adult,Moscow - Russia
+B-Boy Dany - Danis,Civil,FRA,1,,26-Jun-23,Continental Games,Breaking,Adult,Nowy Sącz - Poland
+B-Boy Dany - Danis,Civil,FRA,4,500,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Dany - Danis,Civil,FRA,1,1000,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Dany - Danis,Civil,FRA,14,250,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Dany - Danis,Civil,FRA,1,1000,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Dany - Danis,Civil,FRA,9,300,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Dany - Danis,Civil,FRA,5,,9-Jul-22,IWGA The World Games,Breaking,Adult,Birmingham - United States
+B-Boy Dany - Danis,Civil,FRA,4,200,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Dany - Danis,Civil,FRA,5,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Mickeydd - Miguel Eduardo,Cobo,GUA,79,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Think - Tsz Wa,Tsang,HKG,46,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Think - Tsz Wa,Tsang,HKG,18,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Think - Tsz Wa,Tsang,HKG,58,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Think - Tsz Wa,Tsang,HKG,91,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Think - Tsz Wa,Tsang,HKG,63,100,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Think - Tsz Wa,Tsang,HKG,31,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Think - Tsz Wa,Tsang,HKG,48,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Think - Tsz Wa,Tsang,HKG,90,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Think - Tsz Wa,Tsang,HKG,113,50,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Think - Tsz Wa,Tsang,HKG,63,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy C Plus - Ka Yam,Sze,HKG,60,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy C Plus - Ka Yam,Sze,HKG,15,,6-Oct-23,Continental Games,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy C Plus - Ka Yam,Sze,HKG,41,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy C Plus - Ka Yam,Sze,HKG,42,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy C Plus - Ka Yam,Sze,HKG,30,200,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy C Plus - Ka Yam,Sze,HKG,35,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy C Plus - Ka Yam,Sze,HKG,32,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy C Plus - Ka Yam,Sze,HKG,27,200,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy C Plus - Ka Yam,Sze,HKG,52,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy C Plus - Ka Yam,Sze,HKG,78,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy C Plus - Ka Yam,Sze,HKG,50,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Mario - Mario,Konjarević,CRO,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Mario - Mario,Konjarević,CRO,94,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Mario - Mario,Konjarević,CRO,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Mario - Mario,Konjarević,CRO,140,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Mario - Mario,Konjarević,CRO,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Mario - Mario,Konjarević,CRO,144,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Mario - Mario,Konjarević,CRO,169,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Marx - Marko,Bašić,CRO,91,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Loosefit - Gergely,Büki,HUN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Loosefit - Gergely,Büki,HUN,99,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Loosefit - Gergely,Büki,HUN,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Loosefit - Gergely,Büki,HUN,134,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Loosefit - Gergely,Büki,HUN,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Loosefit - Gergely,Büki,HUN,0,,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Loosefit - Gergely,Büki,HUN,136,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Loosefit - Gergely,Büki,HUN,188,25,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Loosefit - Gergely,Büki,HUN,71,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,0,,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,84,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,96,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,92,20,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,77,50,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,145,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Noris by Nature - Noris Menotti,Lobontiu,HUN,100,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Dekdi - Suryadi,Suryadi,INA,71,50,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Dekdi - Suryadi,Suryadi,INA,0,,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Dekdi - Suryadi,Suryadi,INA,73,50,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Dekdi - Suryadi,Suryadi,INA,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Dekdi - Suryadi,Suryadi,INA,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Dekdi - Suryadi,Suryadi,INA,0,,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Dekdi - Suryadi,Suryadi,INA,99,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Dekdi - Suryadi,Suryadi,INA,46,20,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Crook - Christopher,Howick Crook,IRL,95,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Crook - Christopher,Howick Crook,IRL,0,,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Crook - Christopher,Howick Crook,IRL,136,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Crook - Christopher,Howick Crook,IRL,157,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Crook - Christopher,Howick Crook,IRL,85,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Lancelot - Lance,Conway,IRL,157,25,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Lancelot - Lance,Conway,IRL,153,25,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Pita - Etamar,Grinberg,ISR,66,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Pita - Etamar,Grinberg,ISR,65,50,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Pita - Etamar,Grinberg,ISR,34,40,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Pita - Etamar,Grinberg,ISR,87,50,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Pita - Etamar,Grinberg,ISR,89,50,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Pita - Etamar,Grinberg,ISR,93,50,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Pita - Etamar,Grinberg,ISR,41,26,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Poter - Yakov,Krawec,ISR,40,100,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Poter - Yakov,Krawec,ISR,45,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Poter - Yakov,Krawec,ISR,44,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Poter - Yakov,Krawec,ISR,14,100,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Poter - Yakov,Krawec,ISR,25,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Poter - Yakov,Krawec,ISR,51,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Poter - Yakov,Krawec,ISR,19,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Poter - Yakov,Krawec,ISR,44,100,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Poter - Yakov,Krawec,ISR,37,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Poter - Yakov,Krawec,ISR,21,40,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Poter - Yakov,Krawec,ISR,33,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Poter - Yakov,Krawec,ISR,43,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Poter - Yakov,Krawec,ISR,14,36,11-Jun-22,BfG Challenge Series,Breaking,Adult,Madrid - Spain
+B-Boy Poter - Yakov,Krawec,ISR,27,90,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Poter - Yakov,Krawec,ISR,8,53,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Poter - Yakov,Krawec,ISR,39,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Crazy Bright - Suryadharshan,Bagiyaraj,IND,0,,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Crazy Bright - Suryadharshan,Bagiyaraj,IND,84,50,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Crazy Bright - Suryadharshan,Bagiyaraj,IND,0,,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Antique - Ankit,Kushwah,IND,70,50,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Blaze - Edoardo,Facco,ITA,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Blaze - Edoardo,Facco,ITA,26,33,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Spider - Andrea,Borrelli,ITA,60,100,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Spider - Andrea,Borrelli,ITA,0,,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Spider - Andrea,Borrelli,ITA,62,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Spider - Andrea,Borrelli,ITA,37,26,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,32,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,0,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,49,100,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,13,104,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,33,100,17-May-23,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,24,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,31,200,14-Apr-23,BfG World Series,Breaking,Adult,Rio de Janerio - Brazil
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,33,100,24-Feb-23,BfG World Series,Breaking,Adult,Kitakyushu - Japan
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,43,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,40,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,5,176,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,5,57,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Mowgly - Cristian Francesco,Bilardi,ITA,23,,4-Dec-21,World Championship,Breaking,Adult,Paris - France
+B-Boy Mattix - Mattia,Zerlotin,ITA,27,80,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Mattix - Mattia,Zerlotin,ITA,19,80,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Mattix - Mattia,Zerlotin,ITA,20,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Mattix - Mattia,Zerlotin,ITA,46,100,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Mattix - Mattia,Zerlotin,ITA,51,30,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
+B-Boy Mattix - Mattia,Zerlotin,ITA,21,33,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Jet Leg - Simone,Arasi,ITA,24,200,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Jet Leg - Simone,Arasi,ITA,36,,23-Sep-23,World Championship,Breaking,Adult,Leuven - Belgium
+B-Boy Jet Leg - Simone,Arasi,ITA,26,200,30-Aug-23,BfG World Series,Breaking,Adult,Porto - Portugal
+B-Boy Jet Leg - Simone,Arasi,ITA,0,,15-Jul-23,BfG International Series,Breaking,Adult,Rimini - Italy
+B-Boy Jet Leg - Simone,Arasi,ITA,30,80,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Jet Leg - Simone,Arasi,ITA,25,200,6-May-23,Continental Championship,Breaking,Adult,Almeria - Spain
+B-Boy Jet Leg - Simone,Arasi,ITA,12,270,5-Nov-22,Continental Championship,Breaking,Adult,Manchester - England
+B-Boy Jet Leg - Simone,Arasi,ITA,15,35,16-Apr-22,BfG Challenge Series,Breaking,Adult,Cambrils - Spain
+B-Boy Hiro10 - Hiroto,Ono,JPN,3,650,15-Dec-23,BfG World Series,Breaking,Adult,"Hong Kong - Hong Kong, China"
+B-Boy Hiro10 - Hiroto,Ono,JPN,6,380,1-Jul-23,Continental Championship,Breaking,Adult,Hangzhou - People's Republic of China
+B-Boy Hiro10 - Hiroto,Ono,JPN,3,260,17-Jun-23,BfG International Series,Breaking,Adult,Madrid - Spain
+B-Boy Hiro10 - Hiroto,Ono,JPN,3,260,3-Jun-23,BfG International Series,Breaking,Adult,Montreal - Canada
+B-Boy Hiro10 - Hiroto,Ono,JPN,8,68,19-Nov-22,BfG Challenge Series,Breaking,Adult,Tokyo - Japan
+B-Boy Hiro10 - Hiroto,Ono,JPN,45,100,21-Oct-22,World Championship,Breaking,Adult,Seoul - South Korea
+B-Boy Hiro10 - Hiroto,Ono,JPN,38,60,26-May-22,BfG World Series,Breaking,Adult,Montpellier - France
